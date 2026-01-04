@@ -7,8 +7,6 @@
 
 This project analyzes student feedback survey data to understand overall satisfaction, sentiment distribution, and rating trends. The analysis converts raw survey responses into meaningful insights using Python and data visualization techniques.
 
-Completed as part of Data Science & Analytics Internship – Task 3.
-
 ---
 
 **📂 Dataset**
