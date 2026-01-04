@@ -1,4 +1,4 @@
-**📊 Student Feedback Analysis**
+**📊 COLLEGE EVENT FEEDBACK ANALYSIS**
 
 ---
 
@@ -58,12 +58,3 @@ Positive sentiment dominates the dataset
 
 Satisfaction trends remain fairly stable
 
----
-
-**🚀 How to Run**
-
-Upload the dataset to Google Colab
-
-Run the notebook cells sequentially
-
-Generated graphs will be saved automatically
